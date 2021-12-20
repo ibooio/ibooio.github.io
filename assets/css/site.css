@@ -1,0 +1,36 @@
+body{
+    background-color:#261f1f;
+    color: #ff016b;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#me{
+    text-align: center;
+    line-height: 60px;
+    padding-top: 10%;
+}
+
+#me-hi{
+    font-size: 4em;
+    font-family: 'Raleway', sans-serif;
+}
+
+#me-about{
+    font-size: 1.5em;
+}
+
+#me-links{
+    font-size: 4em;
+    margin-top: 40px;
+}
+#me-links a{
+    margin: 20px;
+    color: #fff;
+}
+
+#me-bottom{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
